@@ -176,7 +176,7 @@ initial_activities = {
         "participants": []
     },
     "Manga Maniacs #2": {
-        "description": "Explore the fantastic stories of the most interesting characters from Japanese Manga (graphic novels).",
+        "description": "Dive into the world of Japanese Manga and explore the fantastic stories of unforgettable characters — from fearless heroes to cunning villains — across action, fantasy, romance, and beyond!",
         "schedule": "Tuesdays, 7:00 PM",
         "schedule_details": {
             "days": ["Tuesday"],
