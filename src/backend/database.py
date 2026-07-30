@@ -174,6 +174,17 @@ initial_activities = {
         },
         "max_participants": 25,
         "participants": []
+    },
+    "Manga Maniacs #2": {
+        "description": "Dive into the world of Japanese Manga and explore the fantastic stories of unforgettable characters — from fearless heroes to cunning villains — across action, fantasy, romance, and beyond!",
+        "schedule": "Tuesdays, 5:00 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "17:00",
+            "end_time": "18:00"
+        },
+        "max_participants": 25,
+        "participants": []
     }
 }
 
